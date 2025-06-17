@@ -2,6 +2,7 @@ name: Download (Both Sides)
 on:
   workflow_dispatch:
   release:
+    types: [published]
 
 jobs:
     download:
