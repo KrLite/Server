@@ -1,0 +1,26 @@
+name: Download (Server Side)
+on:
+  workflow_dispatch:
+  release:
+
+jobs:
+    download:
+        strategy:
+            matrix:
+                os: [macos-latest]
+        runs-on: ${{ matrix.os }}
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+              
+            - name: Setup Java
+              uses: actions/setup-java@v4
+              
+            - name: Download
+              run: java -jar packwiz-installer-bootstrap.jar -g -s server pack.toml
+              
+            - name: Capture downloaded jars
+              uses: actions/upload-artifact@v4
+              with:
+                  name: mods
+                  path: ./mods
