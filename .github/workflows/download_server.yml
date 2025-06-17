@@ -20,6 +20,8 @@ jobs:
                 java-version: 21
               
             - name: Download
+              env:
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               run: java -jar packwiz-installer-bootstrap.jar -g -s server pack.toml
               
             - name: Capture downloaded jars
