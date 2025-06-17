@@ -4,7 +4,7 @@ on:
   release:
 
 jobs:
-    build:
+    export:
         strategy:
             matrix:
                 os: [macos-latest]
