@@ -9,6 +9,7 @@ jobs:
             matrix:
                 os: [macos-latest]
         runs-on: ${{ matrix.os }}
+        permissions: write-all
         steps:
             - name: Checkout
               uses: actions/checkout@v4
