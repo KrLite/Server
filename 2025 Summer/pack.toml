@@ -1,0 +1,12 @@
+name = "2025 Summer (Fabric 1.20.1)"
+version = "1.0.0-patch.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f51e968dc3b3d433567fa4bf5c706ed75321bcba6a3b10370cc08c31d399db86"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.20.1"

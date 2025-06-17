@@ -1,0 +1,13 @@
+name = "Modern KeyBinding"
+filename = "ModernKeyBinding-Fabric-1.20-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rQszQPD2/versions/OFIAZVy7/ModernKeyBinding-Fabric-1.20-1.2.0.jar"
+hash-format = "sha512"
+hash = "e78ce9a7c967a70f9edb1b2643db14214a7b1d2bb8b0436eae787a1fab8e223dc7a4935c61b23dcd8893037d5979ad06954b4444af1f1cca46ca01c0bfb020ce"
+
+[update]
+[update.modrinth]
+mod-id = "rQszQPD2"
+version = "OFIAZVy7"

@@ -1,0 +1,13 @@
+name = "Geckolib"
+filename = "geckolib-fabric-1.20.1-4.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/ezKSGafs/geckolib-fabric-1.20.1-4.7.2.jar"
+hash-format = "sha512"
+hash = "22e7e59f4c708f927f0e7c17e92491a25bb233ecfc6993b6f01d7f6c1a9fe0e88eb1f0a5f019a1bc1d60095a77b88be903e7e5b0132e214d43c5ba28087f00f7"
+
+[update]
+[update.modrinth]
+mod-id = "8BmcQJ2H"
+version = "ezKSGafs"

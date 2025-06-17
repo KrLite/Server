@@ -1,0 +1,13 @@
+name = "YUNG's Extras"
+filename = "YungsExtras-1.20-Fabric-4.0.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZYgyPyfq/versions/pfVTUz1L/YungsExtras-1.20-Fabric-4.0.3.jar"
+hash-format = "sha512"
+hash = "9fb06e136b12548ca9cb82d5d1035d760b74c7acded4b0d01ea29fb1e47c4666e1f289e6ce3e0c77510bc4bd10a64946e17633f99f60b5424a535d8d88025412"
+
+[update]
+[update.modrinth]
+mod-id = "ZYgyPyfq"
+version = "pfVTUz1L"

@@ -1,0 +1,13 @@
+name = "Pineapple Delight"
+filename = "PineappleDelight-Fabric-1.20-1.0.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8wXnuOvg/versions/x85UwMri/PineappleDelight-Fabric-1.20-1.0.13.jar"
+hash-format = "sha512"
+hash = "3d52819cd230ed235e4311ac00deb49ce5f94b206da395ee53a65691a1947d95bfd7d0ff8c6ead1aed64ac7cee0b834c57937829d057ddefadbc17f01753e7d0"
+
+[update]
+[update.modrinth]
+mod-id = "8wXnuOvg"
+version = "x85UwMri"
