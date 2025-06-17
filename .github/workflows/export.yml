@@ -1,0 +1,23 @@
+name: Export
+on:
+  workflow_dispatch:
+  release:
+
+jobs:
+    export:
+        strategy:
+            matrix:
+                os: [macos-latest]
+        runs-on: ${{ matrix.os }}
+        steps:
+            - name: checkout repository
+              uses: actions/checkout@v4
+            - name: make packwiz executable
+              run: chmod +x ./packwiz
+            - name: export modrinth
+              run: ./packwiz mr export
+            - name: capture export artifacts - modrinth
+              uses: actions/upload-artifact@v4
+              with:
+                  name: Artifacts-Modrinth
+                  path: ./**.mrpack
