@@ -10,14 +10,17 @@ jobs:
                 os: [macos-latest]
         runs-on: ${{ matrix.os }}
         steps:
-            - name: checkout repository
+            - name: Checkout
               uses: actions/checkout@v4
-            - name: make packwiz executable
+              
+            - name: Make Executable
               run: chmod +x ./packwiz
-            - name: export modrinth
+              
+            - name: Export to `.mrpack`
               run: ./packwiz mr export
-            - name: capture export artifacts - modrinth
+              
+            - name: Capture Artifacts
               uses: actions/upload-artifact@v4
               with:
-                  name: Artifacts-Modrinth
+                  name: Pack (Modrinth)
                   path: ./**.mrpack
