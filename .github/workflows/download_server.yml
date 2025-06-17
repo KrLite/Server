@@ -16,9 +16,8 @@ jobs:
             - name: Setup Java
               uses: actions/setup-java@v4
               with:
-                distribution: 'temurin'
-                java-version: '21'
-                cache: 'gradle'
+                distribution: temurin
+                java-version: 21
               
             - name: Download
               run: java -jar packwiz-installer-bootstrap.jar -g -s server pack.toml
