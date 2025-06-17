@@ -17,7 +17,7 @@ jobs:
             - name: export modrinth
               run: ./packwiz mr export
             - name: capture export artifacts - modrinth
-              uses: actions/upload-artifact@v2
+              uses: actions/upload-artifact@v4
               with:
                   name: Artifacts-Modrinth
                   path: ./**.mrpack
