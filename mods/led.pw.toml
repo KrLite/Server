@@ -1,0 +1,13 @@
+name = "Light Emitting Diode"
+filename = "led-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nrekn9hP/versions/ax1Oy3Bj/led-1.6.0.jar"
+hash-format = "sha512"
+hash = "71c7096c616f459caf2e3c8621b4938b75a8d87889b67a069e5bb3719547f6b8dc69d82eb8f5bce89929615017724cd1142c0ae9f8d35ee2519d65731bd76d4e"
+
+[update]
+[update.modrinth]
+mod-id = "nrekn9hP"
+version = "ax1Oy3Bj"
