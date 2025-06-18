@@ -27,4 +27,12 @@ jobs:
               uses: actions/upload-artifact@v4
               with:
                   name: mods
-                  path: ./mods
+                  path: |
+                    ./mods
+                    !**/*.toml
+              
+            - name: Capture datapacks
+              uses: actions/upload-artifact@v4
+              with:
+                  name: datapacks
+                  path: ./datapacks
