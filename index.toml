@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/download_both.yml"
-hash = "10134ec6c63170a0f8490594b1dc1a8bc28449736e7c3c5a3f2f1784896eb51c"
-
-[[files]]
-file = ".github/workflows/download_server.yml"
-hash = "eb8f508514f05c77b1bdda21e6d66429df57aa4873c221c940aec2ff05b8cc4b"
-
-[[files]]
-file = ".github/workflows/export.yml"
-hash = "c2b4f8dd1b3bb6351a33ecf83a96cb089e5abc74a0e1e41d16e510ef568b3f75"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d9298a63d5486b0d1891506baf2caf722deaf028c9ce809c11d2a305ca4c4d41"
 metafile = true
@@ -396,7 +384,3 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "d201155cab7c2a2cf940d91f240be769ac12046c2fc6a0774e225a8e51423ed0"
 metafile = true
-
-[[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"

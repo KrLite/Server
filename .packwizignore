@@ -3,3 +3,16 @@
 
 # Exclude README
 /README.md
+
+# Contents
+/datapacks/*
+
+# Binaries
+/packwiz
+/packwiz.exe
+/packwiz-installer-bootstrap.jar
+
+/.git/*
+/.github/*
+/.gitattributes
+/.gitignore
