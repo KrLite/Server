@@ -1,0 +1,13 @@
+name = "Platform"
+filename = "Platform-fabric-1.20.1-1.2.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i6fiqm5y/versions/kXDHxOHx/Platform-fabric-1.20.1-1.2.10.jar"
+hash-format = "sha512"
+hash = "f4796827e26c14c5647cb789a596887648ef764ca89015dc4b4efb7ca7d85bf730b59a8cf8fad5c585de5b92626762b73bc31934aeb9c45cb977163533dc1b30"
+
+[update]
+[update.modrinth]
+mod-id = "i6fiqm5y"
+version = "kXDHxOHx"
