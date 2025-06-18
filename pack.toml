@@ -1,11 +1,11 @@
 name = "2025 Summer (Fabric 1.20.1)"
-version = "1.0.0-patch.2"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "04898ab3ea2427147707fbdf9cf460be12466f51c7e94eace51a947df1164a28"
+hash = "93d5f5dcec32cb108e231bb403d380426c3139a990e330932dd3e0f4a1b6ab06"
 
 [versions]
 fabric = "0.16.14"
