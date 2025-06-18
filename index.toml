@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/download_both.yml"
+hash = "10134ec6c63170a0f8490594b1dc1a8bc28449736e7c3c5a3f2f1784896eb51c"
+
+[[files]]
+file = ".github/workflows/download_server.yml"
+hash = "eb8f508514f05c77b1bdda21e6d66429df57aa4873c221c940aec2ff05b8cc4b"
+
+[[files]]
+file = ".github/workflows/export.yml"
+hash = "c2b4f8dd1b3bb6351a33ecf83a96cb089e5abc74a0e1e41d16e510ef568b3f75"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d9298a63d5486b0d1891506baf2caf722deaf028c9ce809c11d2a305ca4c4d41"
 metafile = true
@@ -181,6 +193,11 @@ hash = "57ea25e227f51134932bc2a95b9eada19493dbc495b14cb86251a71377e85197"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "82c9f3b080b24f089af2bdfa5b1c608b22855bbd7dc8b3b84b13412581715a1f"
+metafile = true
+
+[[files]]
 file = "mods/pineapple-delight.pw.toml"
 hash = "a382ab56b059fbb5943e96ea90fb83f0b30b57108614c9b0bf88067f0181767d"
 metafile = true
@@ -218,6 +235,16 @@ metafile = true
 [[files]]
 file = "mods/rottencreatures.pw.toml"
 hash = "86dd30664de6dd1d53e9ecec18ea7c3feb0b8b1e4862616af6fa5207a528c694"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-input-methods.pw.toml"
+hash = "8089997bd513e25f59ad1aca1a6058dbbc3d3728c302f46e103a738e69b39446"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "5221fe509420e0ac4908dbd0a050cb905e4c3c5207b1b3e35da264a006619262"
 metafile = true
 
 [[files]]
@@ -339,3 +366,7 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "d201155cab7c2a2cf940d91f240be769ac12046c2fc6a0774e225a8e51423ed0"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
