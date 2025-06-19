@@ -41,11 +41,6 @@ hash = "a2de85ebe9629568398185b5b9554bcc0c54e322b214d78368485a6074a66279"
 metafile = true
 
 [[files]]
-file = "mods/bits-and-chisels.pw.toml"
-hash = "4780df2e8d01122c7f5aedee4b8bff93a05c635dc2353fe133cc461a1f51c1f2"
-metafile = true
-
-[[files]]
 file = "mods/blockus.pw.toml"
 hash = "2bb6404c6546f92556e2ff7480832ca5bbbfa607470bd56f5a0f59528170816d"
 metafile = true
