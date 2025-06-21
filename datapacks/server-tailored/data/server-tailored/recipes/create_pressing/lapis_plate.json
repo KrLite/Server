@@ -9,14 +9,13 @@
   ],
   "results": [
     {
-      "item": "modern_industrialization:coal_dust"
+      "item": "modern_industrialization:lapis_plate"
     }
   ],
-  "type": "create:milling",
+  "type": "create:pressing",
   "ingredients": [
     {
-      "item": "minecraft:coal"
+      "tag": "c:lapis"
     }
-  ],
-  "processingTime": 350
+  ]
 }

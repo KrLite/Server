@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:sand"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "item": "fabricaeexnihilo:silt"
+    }
+  ]
+}
