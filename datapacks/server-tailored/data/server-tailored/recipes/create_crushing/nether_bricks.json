@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_bricks"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "item": "fabricaeexnihilo:crushed_netherrack"
+    }
+  ]
+}

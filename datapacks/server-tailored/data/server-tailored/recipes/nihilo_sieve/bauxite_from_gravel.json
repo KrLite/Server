@@ -1,0 +1,19 @@
+{
+  "type": "fabricaeexnihilo:sieve",
+  "input": {
+    "item": "minecraft:gravel"
+  },
+  "result": {
+    "count": 1,
+    "item": "modern_industrialization:bauxite_dust"
+  },
+  "rolls": {
+    "fabricaeexnihilo:diamond_mesh": [
+      0.08
+    ],
+    "fabricaeexnihilo:netherite_mesh": [
+      0.16
+    ]
+  },
+  "waterlogged": false
+}

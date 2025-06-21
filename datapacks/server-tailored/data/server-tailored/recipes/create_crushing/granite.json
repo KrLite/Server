@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:granite"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "item": "fabricaeexnihilo:crushed_granite"
+    }
+  ]
+}

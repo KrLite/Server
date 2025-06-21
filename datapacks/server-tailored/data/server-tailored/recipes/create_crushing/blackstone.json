@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:blackstone"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "item": "fabricaeexnihilo:crushed_blackstone"
+    }
+  ]
+}
