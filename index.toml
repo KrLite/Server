@@ -91,6 +91,11 @@ hash = "6be9963e522a869088bbd81a2847eda39b187318a6b558cdd8f6e2156c3019ac"
 metafile = true
 
 [[files]]
+file = "mods/edgeless-chat-screen.pw.toml"
+hash = "29c3a3af3cffd50bc571c7903c62f639d67fa5e6fd8a1106737e7356c9098bb2"
+metafile = true
+
+[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "fab5d7420de7216e160ad3c2ce7b3c06ae3008ddb432b564579d43a7f9130075"
 metafile = true
