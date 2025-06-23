@@ -46,13 +46,18 @@ hash = "2bb6404c6546f92556e2ff7480832ca5bbbfa607470bd56f5a0f59528170816d"
 metafile = true
 
 [[files]]
+file = "mods/bounced.pw.toml"
+hash = "3cea4e0314e3ea354e4de096034141e261e08fe66409e254c8d48aab204fd5d5"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "a64fd77827cfe582e2ad434fbf5fd6a70450796c191525cab9ea33d42e98a212"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
@@ -86,6 +91,11 @@ hash = "6be9963e522a869088bbd81a2847eda39b187318a6b558cdd8f6e2156c3019ac"
 metafile = true
 
 [[files]]
+file = "mods/edgeless-chat-screen.pw.toml"
+hash = "29c3a3af3cffd50bc571c7903c62f639d67fa5e6fd8a1106737e7356c9098bb2"
+metafile = true
+
+[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "fab5d7420de7216e160ad3c2ce7b3c06ae3008ddb432b564579d43a7f9130075"
 metafile = true
@@ -107,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c784cee4a8eed3f2b36172b8c5a119a62a28880d15e7f169947c935bf3bf4bb3"
+hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
 metafile = true
 
 [[files]]
@@ -246,6 +256,11 @@ hash = "1ab3b265bab4a5e521a49224d876727232e66d69afe632ff2bb5a2be462ca2ba"
 metafile = true
 
 [[files]]
+file = "mods/night-auto-config.pw.toml"
+hash = "e12567f00765136329ad5edcfcf826c7cc47f2e780c7a12083675887f6d654b6"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "57ea25e227f51134932bc2a95b9eada19493dbc495b14cb86251a71377e85197"
 metafile = true
@@ -263,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "cfe3c1118abed6484e9fb81a4d0d65d8e200ff07a8fa826d2135f808e855ac4c"
+metafile = true
+
+[[files]]
+file = "mods/rei-collapsible-entries.pw.toml"
+hash = "48701a7bedac04f66dd7b347b15dcc811a1ddcca6ce4ef9dcefc1cf7da83e930"
 metafile = true
 
 [[files]]
