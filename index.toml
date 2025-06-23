@@ -251,11 +251,6 @@ hash = "1ab3b265bab4a5e521a49224d876727232e66d69afe632ff2bb5a2be462ca2ba"
 metafile = true
 
 [[files]]
-file = "mods/night-auto-config.pw.toml"
-hash = "e12567f00765136329ad5edcfcf826c7cc47f2e780c7a12083675887f6d654b6"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "57ea25e227f51134932bc2a95b9eada19493dbc495b14cb86251a71377e85197"
 metafile = true
@@ -373,11 +368,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
-metafile = true
-
-[[files]]
-file = "mods/verticality.pw.toml"
-hash = "4df6767e18ac01b024388822813ff364c3e7ce61ff2b74c9dbe40a29d50fb465"
 metafile = true
 
 [[files]]
