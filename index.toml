@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
@@ -248,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "1ab3b265bab4a5e521a49224d876727232e66d69afe632ff2bb5a2be462ca2ba"
+metafile = true
+
+[[files]]
+file = "mods/night-auto-config.pw.toml"
+hash = "e12567f00765136329ad5edcfcf826c7cc47f2e780c7a12083675887f6d654b6"
 metafile = true
 
 [[files]]
