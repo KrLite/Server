@@ -51,6 +51,11 @@ hash = "3cea4e0314e3ea354e4de096034141e261e08fe66409e254c8d48aab204fd5d5"
 metafile = true
 
 [[files]]
+file = "mods/caramel-chat.pw.toml"
+hash = "5b5b8cf9340aeca8a7d61e0b311f24dcc76477cf48106df4ab32da944b1a378b"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "a64fd77827cfe582e2ad434fbf5fd6a70450796c191525cab9ea33d42e98a212"
 metafile = true
