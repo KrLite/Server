@@ -271,6 +271,11 @@ hash = "82c9f3b080b24f089af2bdfa5b1c608b22855bbd7dc8b3b84b13412581715a1f"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "3c2fe6485d980a094a5094263d9d54dd59bd4cfd37439109be561894342a82f8"
+metafile = true
+
+[[files]]
 file = "mods/pineapple-delight.pw.toml"
 hash = "a382ab56b059fbb5943e96ea90fb83f0b30b57108614c9b0bf88067f0181767d"
 metafile = true
