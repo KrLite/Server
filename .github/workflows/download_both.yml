@@ -21,7 +21,7 @@ jobs:
                 java-version: 21
               
             - name: Download
-              run: java -jar packwiz-installer-bootstrap.jar -g -s both pack.toml
+              run: java -jar packwiz-installer-bootstrap.jar -g --bootstrap-no-update --bootstrap-main-jar packwiz-installer.jar -s both pack.toml
               
             - name: Capture downloaded jars
               uses: actions/upload-artifact@v4
