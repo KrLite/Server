@@ -6,13 +6,23 @@ hash = "d9298a63d5486b0d1891506baf2caf722deaf028c9ce809c11d2a305ca4c4d41"
 metafile = true
 
 [[files]]
+file = "mods/abridged.pw.toml"
+hash = "765d22603c3dc88d3c93a517b0f2139e48f07c2ea80d45ce4488924d4cf8d34a"
+metafile = true
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "d6c10a41620fa751e4c8aeee37b69adcbb107c72ebbd4e63d6966ae19d6c3ee0"
 metafile = true
 
 [[files]]
+file = "mods/addonslib.pw.toml"
+hash = "1b6e4f43c8138e60d9f2283c83fa5f5e5c267b35ca764952699472c751647642"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
@@ -48,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/bounced.pw.toml"
 hash = "3cea4e0314e3ea354e4de096034141e261e08fe66409e254c8d48aab204fd5d5"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.pw.toml"
+hash = "d250a791b3ec9538036276fde244293c9c6d1854d6073d13f731f0fe36c73ff7"
 metafile = true
 
 [[files]]
@@ -216,6 +231,16 @@ hash = "ed322399f2f703b5cc9f6652d85e8eb215a53c7acbeef27964c0d6af7400561a"
 metafile = true
 
 [[files]]
+file = "mods/macaws-biomes-o-plenty.pw.toml"
+hash = "9876d69a9340de96537eb80fec92f5df5afdd2e5464dd6a557597358f3f79f5e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "ace2b470981f950cd04f22d9dbd8e57fc8a3e3059f282f36b720ed02a640da0e"
+metafile = true
+
+[[files]]
 file = "mods/macos-input-fixes.pw.toml"
 hash = "e4562622be1286bf8f2c8af9e3fc4e6052c9cd51c67c70f2bfce0fd9d26c31bb"
 metafile = true
@@ -248,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "e4cd7e0e13b5d387c44bbdf0f2ccd958d7c098f5dbb09836db40fd5b008e7f05"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "8833d26bb1840c79ebd7ba91558a28fefef26ec743cb92fcb45372fcdd3a8412"
 metafile = true
 
 [[files]]
@@ -368,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "caa507edc23c21df56cda8b40d30d74eaa999b19bf2fe4e2b53cf9a256e1ac76"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "524dd7f62c4168f80fe6c5b890492962a05c8b8b751ae4cc16934d21326ce136"
 metafile = true
 
 [[files]]
