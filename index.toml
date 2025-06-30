@@ -11,6 +11,11 @@ hash = "765d22603c3dc88d3c93a517b0f2139e48f07c2ea80d45ce4488924d4cf8d34a"
 metafile = true
 
 [[files]]
+file = "mods/adaptive-tooltips.pw.toml"
+hash = "9e56c813c3000384bbb06f72500ea95b4407cd710143840a4a41440dbf1d8a1c"
+metafile = true
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "d6c10a41620fa751e4c8aeee37b69adcbb107c72ebbd4e63d6966ae19d6c3ee0"
 metafile = true
@@ -68,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "a64fd77827cfe582e2ad434fbf5fd6a70450796c191525cab9ea33d42e98a212"
+metafile = true
+
+[[files]]
+file = "mods/clean-tooltips.pw.toml"
+hash = "3144a33fd4824a59014a949106758ed616764652aaa0c78c44581cde6a875cb9"
 metafile = true
 
 [[files]]
@@ -176,6 +186,11 @@ hash = "1f9f852eff313b3271a944ad982908d304fe523a3a10c50c43d5bd6cce4fdb8f"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "f669b069214a8e88d17066ff6715fe131568cd190450ba408b4c2c5479a1a263"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
@@ -213,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/led.pw.toml"
 hash = "2356daa9c59e9c3ad94217c1a4218dada2ac24b13f1094cbdeff5accaf84857a"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "ef561650c251d4780b9cb948ddcacd4f43abe0dc0e31cb1aa22bac0147fe805e"
 metafile = true
 
 [[files]]
@@ -313,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "cfe3c1118abed6484e9fb81a4d0d65d8e200ff07a8fa826d2135f808e855ac4c"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "0ba23afebc8a761538a860cf9b21d6f456cfecf4573249dae9c6d7b1f3d43089"
 metafile = true
 
 [[files]]
