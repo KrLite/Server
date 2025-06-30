@@ -271,6 +271,11 @@ hash = "e4562622be1286bf8f2c8af9e3fc4e6052c9cd51c67c70f2bfce0fd9d26c31bb"
 metafile = true
 
 [[files]]
+file = "mods/mcr_blahaj.pw.toml"
+hash = "62830320ba2a100ac8e5d497b18cdcc9ae4311f71cbcbc8a3dce55178dc58de5"
+metafile = true
+
+[[files]]
 file = "mods/modern-dynamics.pw.toml"
 hash = "28f2e6c19497ba0a7b3d1073720a351ecbb84db27fd09fd74fdba18ffbf2ff33"
 metafile = true
