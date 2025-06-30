@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "d9298a63d5486b0d1891506baf2caf722deaf028c9ce809c11d2a305ca4c4d41"
+hash = "038d6fb5b14ab1b8393bec412eece3e76c06866c4acc841c95dafea8367b4ffe"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "6be9963e522a869088bbd81a2847eda39b187318a6b558cdd8f6e2156c3019ac"
+hash = "f7a6fdc23dcdab277af9147a96fd7d3b733498883419b3fdba650bb1e5ce1cbc"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -352,12 +352,12 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "57ea25e227f51134932bc2a95b9eada19493dbc495b14cb86251a71377e85197"
+hash = "304acf8f2b992078dbb64c4cb22c4b702f8c73f901e0f4547a8c5d910b2f5735"
 metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "82c9f3b080b24f089af2bdfa5b1c608b22855bbd7dc8b3b84b13412581715a1f"
+hash = "eb2371adcce345bc16498193dcfede333822aafdeda96d5cbf8d1fec33bacf56"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "cfe3c1118abed6484e9fb81a4d0d65d8e200ff07a8fa826d2135f808e855ac4c"
+hash = "a7ab975ddf2e7529dae08694cfc5e7bd5ac35fd342a8af2fa098520fcd3b51bd"
 metafile = true
 
 [[files]]
@@ -491,6 +491,11 @@ hash = "524dd7f62c4168f80fe6c5b890492962a05c8b8b751ae4cc16934d21326ce136"
 metafile = true
 
 [[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "47634b4eedae148767c2dc94236c8f07054a533139400404d74deaf088348a08"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
@@ -568,6 +573,16 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
 hash = "8bc20a4cf22bdd4406a64126647cfe3c704e80a3197031c9154032905a276705"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "f23d28e95b21a9655e615390a560bc66f3cb87610ac38cd9d849129d0600a766"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "b2af03e504a1827f2f6fc09597e7d51f4ecd64ab1ebb329a9eb9ffb98372673a"
 metafile = true
 
 [[files]]
