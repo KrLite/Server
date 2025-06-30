@@ -442,12 +442,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a2f8f9c0410885c429945a8e5142a3b4bbaa63bf147f9b2fdd035113b404344f"
+hash = "077c0e3257cc9fa57540c2267a18cca9fc850cd76f23b484ed07b9d98366d783"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "9caca4be3884e5a7c22b681fc4b4d123bb7a9648b4d4936f5ce60df8799fa8eb"
+hash = "60f00296654edefcfa3d462dfc06984307af073be5c4aa25255bda559352e86a"
 metafile = true
 
 [[files]]
@@ -494,3 +494,7 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "d201155cab7c2a2cf940d91f240be769ac12046c2fc6a0774e225a8e51423ed0"
 metafile = true
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
