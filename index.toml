@@ -31,6 +31,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "bee459c3b3739a46717f04675ba175d8a5d26fc00a8683acd4ef5bdfb73a9066"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "d7dcbb9489b17fbe221d3a59ab2503293b219cee29d07a08aefbe32c5f3bf160"
 metafile = true
@@ -103,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
 metafile = true
 
 [[files]]
@@ -488,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "a4f596b65b72b0c718e35cfb2e1a36e1887438b44a39daeec75a1c725a0441c4"
+metafile = true
+
+[[files]]
+file = "mods/windchimes.pw.toml"
+hash = "7ef1612adfce02572d20a2a9682f35ff4f2b2da50fa7645b8c73a46c108b12a9"
 metafile = true
 
 [[files]]
