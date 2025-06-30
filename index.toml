@@ -171,6 +171,11 @@ hash = "5c98012330282f45370e95f4206ccf214fb059b73a8b4ebe0aeb2ae57647d8d5"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
 metafile = true
@@ -241,6 +246,11 @@ hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
 metafile = true
 
 [[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "694c91d6f341271b0b071a814fb64defbd52af1b228cb593595836c0d9f68151"
+metafile = true
+
+[[files]]
 file = "mods/led.pw.toml"
 hash = "2356daa9c59e9c3ad94217c1a4218dada2ac24b13f1094cbdeff5accaf84857a"
 metafile = true
@@ -258,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/library-ferret.pw.toml"
 hash = "be4bb351c89fb18c5166578ef42006e32138bdb1e356ba7db0723ad49c4272c4"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
 metafile = true
 
 [[files]]
@@ -283,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/mcr_blahaj.pw.toml"
 hash = "62830320ba2a100ac8e5d497b18cdcc9ae4311f71cbcbc8a3dce55178dc58de5"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
 
 [[files]]
@@ -443,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/spell-power.pw.toml"
 hash = "b4db824c83bb9476a4b9b13d9a4af28998d9fbf1ad24071514662fd0c81190be"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
 metafile = true
 
 [[files]]
