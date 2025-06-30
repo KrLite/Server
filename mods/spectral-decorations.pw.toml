@@ -1,0 +1,13 @@
+name = "Spectral Decorations"
+filename = "SpectralDecorations-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OtSTiI0D/versions/K4YUpKqE/SpectralDecorations-1.5.0.jar"
+hash-format = "sha512"
+hash = "520e9815a37d040d7eca6d78bed80d9fcb5aa269542a79dcdb11915e63511288c3e5c3250c97404e384a33cbd94cf9b1da18e427f9c1d4d30fa99428f3dd1a08"
+
+[update]
+[update.modrinth]
+mod-id = "OtSTiI0D"
+version = "K4YUpKqE"
