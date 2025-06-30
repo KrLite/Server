@@ -1,0 +1,13 @@
+name = "Windchimes"
+filename = "windchimes-1.2.4+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iM50gcBD/versions/JapPN4QV/windchimes-1.2.4%2B1.20.jar"
+hash-format = "sha512"
+hash = "f58c75e08f6147c51dfeefb8c53e5f0042cfef3acdfcfd2a741e9cc3c46d83642af0705ccf45f1617aa73266ee164b944eaed34d669c22084318afdf5416c52b"
+
+[update]
+[update.modrinth]
+mod-id = "iM50gcBD"
+version = "JapPN4QV"
