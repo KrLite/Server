@@ -26,6 +26,11 @@ hash = "1b6e4f43c8138e60d9f2283c83fa5f5e5c267b35ca764952699472c751647642"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
@@ -106,6 +111,11 @@ hash = "1664203cb78560d36355b4d696bb505ab1508c3a44b625dc3c60e348b9d45bff"
 metafile = true
 
 [[files]]
+file = "mods/create-cyber-goggles.pw.toml"
+hash = "8710d10eac6e1d4e3a99bae20d4828e3544d7e1c0b6ede93c6bd718b2381441f"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "0be9a4a21dec89c60c7952c4ac9c34387bd2714666a90564cf0d2524ea033a1c"
 metafile = true
@@ -171,6 +181,11 @@ hash = "ac9b7ab766919bf9601ba06d2767dbdee41b408e90020ca7a28e0e77598221fe"
 metafile = true
 
 [[files]]
+file = "mods/faded-widgets.pw.toml"
+hash = "47afaa237d8a8f95986808d74e5f23ed0de42f5a8aee5463fce520457f57da4a"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "5c98012330282f45370e95f4206ccf214fb059b73a8b4ebe0aeb2ae57647d8d5"
 metafile = true
@@ -178,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+metafile = true
+
+[[files]]
+file = "mods/flash.pw.toml"
+hash = "53c14e54117f2ccbe867875cb8f33d4fdf530b8fdad994c62031d03b6288d851"
 metafile = true
 
 [[files]]
@@ -223,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+metafile = true
+
+[[files]]
+file = "mods/ive-spoken.pw.toml"
+hash = "0aea87c3d9ef08d3fea6e19678378b8456ba4670c374b70a5ff3ad8039f6216a"
 metafile = true
 
 [[files]]
@@ -483,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "e0047e26d3d4a5a290dc150e9a7c5c5f64cde9e6a0538eaa6f6060374349700f"
+metafile = true
+
+[[files]]
+file = "mods/stenographer.pw.toml"
+hash = "231de81e959fe3c113fb2b5ba74536c6728459b0d040f282f1142fd1ce705af7"
 metafile = true
 
 [[files]]

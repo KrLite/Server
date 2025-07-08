@@ -1,0 +1,13 @@
+name = "Stenographer"
+filename = "stenographer-3.1.0-fabric1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cu290YRp/versions/zdFClpyU/stenographer-3.1.0-fabric1.20.jar"
+hash-format = "sha512"
+hash = "bda44123f641e867c3748cb2928b714b1973364405c8c975b6cce96be088e9ed1260c3d189a8f454ac8394d0f98959658ca4f73fc15687f9d3e6b5e57043be06"
+
+[update]
+[update.modrinth]
+mod-id = "cu290YRp"
+version = "zdFClpyU"
