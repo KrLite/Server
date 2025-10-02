@@ -21,11 +21,6 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
-file = "mods/atmospheric.pw.toml"
-hash = "a1551dc81cc3bb8a1e5197c852a9ce6ccbb6f852ee445bf95f78bcea90d841cc"
-metafile = true
-
-[[files]]
 file = "mods/automobility.pw.toml"
 hash = "03bf4c83390893faab62e2122e9265712a721bd3cd8e0d603f5daddc2549bbd5"
 metafile = true
