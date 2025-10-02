@@ -1,0 +1,13 @@
+name = "CB Multipart"
+filename = "CBMultipart-1.21.1-3.5.0.151.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LmvnWWSV/versions/igIW0qtz/CBMultipart-1.21.1-3.5.0.151.jar"
+hash-format = "sha512"
+hash = "39fd54180b27b9667e970b4852c87ddf02a89b0cc547147db6d254f14b54f0648e6f325dee4bba431aecc5943486299fae5fc16ca78309daac8a26198bddc77b"
+
+[update]
+[update.modrinth]
+mod-id = "LmvnWWSV"
+version = "igIW0qtz"

@@ -1,0 +1,13 @@
+name = "Tectonic"
+filename = "tectonic-3.0.13-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/EsSVi0B6/tectonic-3.0.13-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "99e6887ae8e51b666521c20c78d2eb13bbfe0eb8bbc9c04214a736a7d9f00340e4bbb0461dd5b84f36f68abcfe2301030db76c0a09de3eae75d6ccd2e1b643fa"
+
+[update]
+[update.modrinth]
+mod-id = "lWDHr9jE"
+version = "EsSVi0B6"

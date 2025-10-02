@@ -1,0 +1,13 @@
+name = "Berry Good"
+filename = "berry_good-1.21.1-8.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2WZWaKCl/versions/dJvvZvQk/berry_good-1.21.1-8.0.0.jar"
+hash-format = "sha512"
+hash = "0fea9a289d39e0d722a323d5777bede66d4850655377c923cd4cae2f864b0e994fc87b0e75df7bd50683f40f08f509a77f3107c9956169326a0c184d7f092970"
+
+[update]
+[update.modrinth]
+mod-id = "2WZWaKCl"
+version = "dJvvZvQk"

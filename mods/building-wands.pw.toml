@@ -1,0 +1,13 @@
+name = "Building Wands"
+filename = "BuildingWands-neoforge-MC1.21-2.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XkisZUfp/versions/2t88eqU2/BuildingWands-neoforge-MC1.21-2.9.jar"
+hash-format = "sha512"
+hash = "8d85ba79d6f8bd58d9b5f5d5e3e3500d16771ab6763fd5f29af2d9555436357969132194567044d1ee8782dd889a141b80ffc6ca80705a5092d5883c903832ff"
+
+[update]
+[update.modrinth]
+mod-id = "XkisZUfp"
+version = "2t88eqU2"

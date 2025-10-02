@@ -1,0 +1,13 @@
+name = "Autumnity"
+filename = "autumnity-1.21.1-6.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cRh6MJ6n/versions/go7fstWf/autumnity-1.21.1-6.0.0.jar"
+hash-format = "sha512"
+hash = "14f76391ef32f3b906805332cc6f8d41c1f5f714b33f601a45fb9c4febbed37597bcf029073db52d6e1d98994605a9a14cf8d576fc8987cae3947d78cccf7d26"
+
+[update]
+[update.modrinth]
+mod-id = "cRh6MJ6n"
+version = "go7fstWf"
