@@ -6,6 +6,11 @@ hash = "3a65ac0f45561e694b85eee0c03af5d237d70abe12168986c1f853abac08fbfc"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "fb413ba504cfaae8ab4d96ede3944b8eb15fa4238ae02b4331bdad2549876f2e"
+metafile = true
+
+[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "fe3f752f78cd25803f7013c94bb602567bf242be165462f2287b430d457a144e"
 metafile = true
@@ -206,6 +211,11 @@ hash = "e00b467d81fc5f35bf7432bc3b5d371281b0719eeae4377854a5f8ca33968190"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "960fb33c17aca9c635f99009c1f16d75c312d043e302a599f6ce8040452079e6"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
 metafile = true
@@ -241,6 +251,11 @@ hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "e8cbe7ffcde1a34eb5aa3b97d8fd2baff26b7ee105c37cb6a9e65a388c5a0866"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
 metafile = true
@@ -253,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "ce8de1f8dc6ad4a6e0735e22245231202702658937c05a79d608c4bd92ac8358"
+metafile = true
+
+[[files]]
+file = "mods/natures-spirit.pw.toml"
+hash = "e5c9d8b97345998f99cf6da31b41c5cf4875361bc94c3354be2299730b7acb04"
 metafile = true
 
 [[files]]
