@@ -1,12 +1,12 @@
-name = "2025 Summer (Fabric 1.20.1)"
-version = "1.1.1"
+name = "2025 Autumn (Neoforge 1.21.1)"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d82393d381426eecf6f1ac752f0e3eb59f42d4998230bf623a3d4c4b27cb1e2f"
+hash = "d31acc3c515d0d9570b73d90cd5fa6b2062a3f1791608929714e9394c67e6528"
 
 [versions]
-fabric = "0.16.14"
-minecraft = "1.20.1"
+fabric = "21.1.209"
+minecraft = "1.21.1"
