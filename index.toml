@@ -156,6 +156,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "44d66916683c59963a92b4c9fed364f8b119495c52c4158b20bacc467b407e27"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
 metafile = true
