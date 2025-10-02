@@ -326,6 +326,11 @@ hash = "bda53b942ecc9d210b25da27ead8e4c4c44d05bbcbcdd9f6e4fa69bf8014800a"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
+metafile = true
+
+[[files]]
 file = "mods/project-red-core.pw.toml"
 hash = "d84a11bb63c9468513231324fac56e0d500ab97d05a0c86fcaabc6866eb2cb38"
 metafile = true
