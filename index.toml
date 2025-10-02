@@ -51,6 +51,11 @@ hash = "f45bde04c8cc141077ebea59194d9dd9327917223206c70346589bd4cd466254"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "fbb4954b6bcfb8a492b74cbd1d913fd27f481e0cab1ab9371751e1e1843e3da1"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "fb581f4561eb20004b1f4b3f771d44d1b6761bf96cefa5f5f558538d17218858"
 metafile = true
@@ -96,6 +101,11 @@ hash = "5e0a875282f4abed66a2cccf7929488ebb5e88447d2bb3369e8ddc728fc66fc0"
 metafile = true
 
 [[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "ccd912d3f084b90ae88115cb9b041031aa4da4bb18213b585805fd11b19bdb48"
+metafile = true
+
+[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "482da6b94b7a583b970e15ee78810ad48ba3983cb306d3e305b5dc6b205965c4"
 metafile = true
@@ -111,8 +121,18 @@ hash = "4283e9a08be4d1e474439dbf14520e7f346dc0a9e5e309c38ba9df640b98c9b1"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "09eca8aef96745c2f30d0536ed76904a2342a5f9cbe0745b62ce48f5e4666b4c"
+metafile = true
+
+[[files]]
 file = "mods/create-mobile-packages.pw.toml"
 hash = "037a176211b34d40b91a54ea997875d7732363ef2ba1745ea48af398e8c259b7"
+metafile = true
+
+[[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "1f888caa5c68fc4e1a03873c7722ac53949f4177c423e3400039f77e5b90aecd"
 metafile = true
 
 [[files]]
@@ -123,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "882c4c081646302cf295cb8aadc38c5002f1045b7249a7e92f4defd62f0f2f84"
 metafile = true
 
 [[files]]
@@ -228,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "cf1bb72bbbb1ad55af745b6ccb8baf8ff5d6914dc11e41e4752212ca3eb17440"
 metafile = true
 
 [[files]]
