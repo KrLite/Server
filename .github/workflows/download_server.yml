@@ -36,3 +36,9 @@ jobs:
               with:
                   name: datapacks
                   path: ./datapacks
+
+            - name: Capture config
+              uses: actions/upload-artifact@v4
+              with:
+                  name: config
+                  path: ./config
