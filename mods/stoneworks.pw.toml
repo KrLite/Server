@@ -1,0 +1,13 @@
+name = "Stoneworks"
+filename = "Stoneworks-v21.1.0-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FzyTKtVF/versions/9XTU6J5n/Stoneworks-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "fd49d319599e3162d8989d5545210699745e4dd4db187331838a20909a7a9fdc9ec120d6747eb3542a6934274133bbf01435ae2fd4bbebe71118249ea3ee0a53"
+
+[update]
+[update.modrinth]
+mod-id = "FzyTKtVF"
+version = "9XTU6J5n"

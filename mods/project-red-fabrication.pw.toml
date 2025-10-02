@@ -1,0 +1,13 @@
+name = "Project Red Fabrication"
+filename = "ProjectRed-1.21.1-4.22.0-alpha+11-fabrication.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5H1VMCiY/versions/xKox8Aam/ProjectRed-1.21.1-4.22.0-alpha%2B11-fabrication.jar"
+hash-format = "sha512"
+hash = "fd8261bcc672fd6b4907d5128936af45dc81e46d8c1b28767b0c8459f8842a86162dba5b52707ee5bea7f83e1b0b9901ab99c55cdaeb3d919e1692b30a15004f"
+
+[update]
+[update.modrinth]
+mod-id = "5H1VMCiY"
+version = "xKox8Aam"

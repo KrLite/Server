@@ -1,0 +1,13 @@
+name = "Neapolitan"
+filename = "neapolitan-1.21.1-6.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/InYMuiQt/versions/alzGsnWj/neapolitan-1.21.1-6.0.0.jar"
+hash-format = "sha512"
+hash = "c8952d8e9587d214e51e20439fcc3b9b1cfdcd4a0b2820ed924aa4665cf366ea257451368da444b81f9528a72c91def83e3da6824e24b0c0d8bf8dcb436ebbec"
+
+[update]
+[update.modrinth]
+mod-id = "InYMuiQt"
+version = "alzGsnWj"

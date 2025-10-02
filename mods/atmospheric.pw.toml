@@ -1,0 +1,13 @@
+name = "Atmospheric"
+filename = "atmospheric-1.21.1-7.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U9sJOFmJ/versions/cM6WtyUa/atmospheric-1.21.1-7.0.0.jar"
+hash-format = "sha512"
+hash = "80bc21819924bbc98162619bd7931e4429e5e653165dba1c0b0f2c4d9f8d6cecae61c665132f4b6302256fce144a919de5fad092d9a0f2d9f16208e257547c8e"
+
+[update]
+[update.modrinth]
+mod-id = "U9sJOFmJ"
+version = "cM6WtyUa"

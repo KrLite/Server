@@ -1,0 +1,13 @@
+name = "YUNG's Extras"
+filename = "YungsExtras-1.21.1-NeoForge-5.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZYgyPyfq/versions/N2EpMhR7/YungsExtras-1.21.1-NeoForge-5.1.1.jar"
+hash-format = "sha512"
+hash = "d4ef831a034977abdcaec40a7662adbc37c32cf141c68245250da501f6ada2ce193c5351166fbcf2ffb1c452b60bfca8ac578963332aa4a1b523e43912b8cb8c"
+
+[update]
+[update.modrinth]
+mod-id = "ZYgyPyfq"
+version = "N2EpMhR7"

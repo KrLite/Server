@@ -1,0 +1,13 @@
+name = "CodeChicken Lib"
+filename = "CodeChickenLib-1.21.1-4.6.1.524.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2gq0ALnz/versions/bX3ALK0X/CodeChickenLib-1.21.1-4.6.1.524.jar"
+hash-format = "sha512"
+hash = "c31e42c27bf1b9ee98f74833303f8c264ca45db77147db70f4e2a643c40aab3a57ac4b53f997e609760a294d28de3d0f8168cd9fa1cca201ba5eb7da2e96fd4b"
+
+[update]
+[update.modrinth]
+mod-id = "2gq0ALnz"
+version = "bX3ALK0X"
