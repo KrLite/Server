@@ -1,11 +1,11 @@
 name = "2025 Autumn (Neoforge 1.21.1)"
-version = "0.1.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d648e60b89adb0dba195ee2d1b6e506d9dedc904a7e88cdbe1bd1d16779e0597"
+hash = "a94209b53265150fe5ec9fc6b12d8fe1480d52355ec67967b0b63f682fd0f99e"
 
 [versions]
 minecraft = "1.21.1"

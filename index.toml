@@ -226,6 +226,11 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "cc93043a8da62afe6fd286ed388c6dae7a24f6d0501c88ccd35a1ae0ecfb01f6"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "845d56c30d9484014c29d05c15c3bc8891bffc7efc1f5b14b62743b12ec94ff3"
 metafile = true
@@ -366,6 +371,16 @@ hash = "b6836e08f4302a17fd5220ae6aeecf54e2bee332c4afb354dc447af80c6ad46f"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "bd27e4138422966daf05e7aac2bfd4e984f8dc016c7210ed72e1f9b42d92c114"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "a6f42d0fcd8a46022c9a1ce87b32b894a5496b26a2b882c6a88c4330a1201490"
+metafile = true
+
+[[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "5f34acf1abde884e2e955103bcadfbd03652e0cd1d3e224ced4c4a1e9e1664c6"
 metafile = true
@@ -386,8 +401,18 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
+file = "mods/titanium.pw.toml"
+hash = "44ecdae2df678c7cb008e48a3a50079203045a03d16e49aa74637fae97630ce7"
+metafile = true
+
+[[files]]
 file = "mods/tmrv.pw.toml"
 hash = "cf627ec0600bbd92d94d80971f82391d4f671c4b3b2014233e53aa7d645a5d07"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "cdffc74140a6d0da190aebf074d7b0e1a2d7f0b0e4fa7803618d2f154c262a0b"
 metafile = true
 
 [[files]]
