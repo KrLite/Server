@@ -170,6 +170,11 @@ hash = "44d66916683c59963a92b4c9fed364f8b119495c52c4158b20bacc467b407e27"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
 metafile = true
