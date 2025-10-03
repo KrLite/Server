@@ -1,0 +1,13 @@
+name = "Create Contraption Terminals"
+filename = "createcontraptionterminals-1.21-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gOPAFzp0/versions/5Gi82Kml/createcontraptionterminals-1.21-1.2.0.jar"
+hash-format = "sha512"
+hash = "43f11d108620ef4e2291b9529e7a46a6cd151cd9df51cb12a527c65f1ae6bed4bacd19616d6dd051c7c457ee1c8bbbd822514cd19c60da16cbfa07f66a61c2fe"
+
+[update]
+[update.modrinth]
+mod-id = "gOPAFzp0"
+version = "5Gi82Kml"
