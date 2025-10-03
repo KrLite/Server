@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "811a985fec9f83276da01f9e23fb5cbfe43e7422f7bf8caf73280db8e54ea7dd"
+
+[[files]]
 file = "mods/allurement!.pw.toml"
 hash = "3a65ac0f45561e694b85eee0c03af5d237d70abe12168986c1f853abac08fbfc"
 metafile = true
