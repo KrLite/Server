@@ -105,6 +105,11 @@ hash = "5e0a875282f4abed66a2cccf7929488ebb5e88447d2bb3369e8ddc728fc66fc0"
 metafile = true
 
 [[files]]
+file = "mods/coxinha-utilities.pw.toml"
+hash = "2497039d070668ae134ed7f7c4b78cf6bddba2a45a72b25aa7e3308c74466006"
+metafile = true
+
+[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "ccd912d3f084b90ae88115cb9b041031aa4da4bb18213b585805fd11b19bdb48"
 metafile = true
@@ -230,6 +235,11 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "7afdc4a1e9619ea434e5c5a05819dd12653978d0781eaeb1fa6257086c79e827"
+metafile = true
+
+[[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "cc93043a8da62afe6fd286ed388c6dae7a24f6d0501c88ccd35a1ae0ecfb01f6"
 metafile = true
@@ -277,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "e7d3f7e0472ba9a3ef946fa5defcb157e4126636e603c2306d4ad6065936d5e2"
+metafile = true
+
+[[files]]
+file = "mods/kibe.pw.toml"
+hash = "70266011b47d3ebce1a462c4178d06de1005756238de890ef9016969952cc6bb"
 metafile = true
 
 [[files]]
