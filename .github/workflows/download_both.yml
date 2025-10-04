@@ -30,3 +30,9 @@ jobs:
                   path: |
                     ./mods
                     !**/*.toml
+              
+            - name: Capture resource packs
+              uses: actions/upload-artifact@v4
+              with:
+                  name: resourcepacks
+                  path: ./resourcepacks
