@@ -1,10 +1,13 @@
 {
   "type": "minecraft:crafting_shaped",
   "key": {
-    "P": "#minecraft:planks"
+    "P": {
+      "tag": "minecraft:planks"
+    }
   },
   "pattern": ["PPP", "P P", "PPP"],
   "result": {
+    "count": 1,
     "id": "minecraft:chest"
   }
 }
